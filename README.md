@@ -16,3 +16,6 @@ OMDB API<br>
 
 
 ![Alt Text](/img/screenshot.png)
+
+# Deployed Link
+Check out my deployed app [here](https://brilliant-manatee-375557.netlify.app/)
