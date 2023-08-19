@@ -19,3 +19,6 @@ OMDB API<br>
 
 # Deployed Link
 Check out my deployed app [here](https://brilliant-manatee-375557.netlify.app/)
+
+# Future Enhancements
+Applying more styling and displaying movie images.
