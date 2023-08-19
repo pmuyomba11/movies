@@ -9,7 +9,7 @@ $('form').on('submit', handleGetData);
 
 function handleGetData(event){
     event.preventDefault(); //Prevent loads
-    userInput = $input.val();
+    userInput = $input.val(); //Getting user input 
 
    
 
@@ -32,5 +32,5 @@ function render(){
     $title.text(movieData.Title);
     $year.text(movieData.Year);
     $rated.text(movieData.Rated);
-    
+
 }
