@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    font-family:'Lato', sans-serif ;
+    font-size: 20px;
+    color: #fff;
+    background-image: url('./img/movie-paper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    min-height: 100vh
+}
+h1 {
+    text-align: center;
+    margin-top: auto
+}
+
+h3 {
+    color:#656;
+    text-shadow: 2px 4px 4px black;
+    border-bottom: solid #ccc  1px;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   margin-top: 100px;
+
+}
+
+input[type='text']{
+    width : 50%;
+    height: 1.5rem;
+    outline: none;
+}
+
+ 
+input[type='submit']{
+    cursor: pointer;
+    background-color: #45f;
+    color: white;
+    border:none;
+    box-shadow: inset -1px -1px black ,inset 1px 1px black;
+    transition: all .5s ease-out;
+    height: 30px;
+    width: 7rem
+
+}
